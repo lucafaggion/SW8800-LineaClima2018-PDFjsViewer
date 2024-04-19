@@ -74,7 +74,7 @@ class Toolbar {
       //   eventName: "presentationmode",
       // },
       // { element: options.download, eventName: "download" },
-      { element: options.viewBookmark, eventName: null },
+      // { element: options.viewBookmark, eventName: null },
     ];
     this.items = {
       numPages: options.numPages,
